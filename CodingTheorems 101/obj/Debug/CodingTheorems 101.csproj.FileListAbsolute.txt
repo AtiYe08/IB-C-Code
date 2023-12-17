@@ -1,0 +1,7 @@
+C:\Users\fearl\Desktop\Visual Studio\CodingTheorems 101\bin\Debug\CodingTheorems 101.exe.config
+C:\Users\fearl\Desktop\Visual Studio\CodingTheorems 101\bin\Debug\CodingTheorems 101.exe
+C:\Users\fearl\Desktop\Visual Studio\CodingTheorems 101\bin\Debug\CodingTheorems 101.pdb
+C:\Users\fearl\Desktop\Visual Studio\CodingTheorems 101\obj\Debug\CodingTheorems 101.csproj.AssemblyReference.cache
+C:\Users\fearl\Desktop\Visual Studio\CodingTheorems 101\obj\Debug\CodingTheorems 101.csproj.CoreCompileInputs.cache
+C:\Users\fearl\Desktop\Visual Studio\CodingTheorems 101\obj\Debug\CodingTheorems 101.exe
+C:\Users\fearl\Desktop\Visual Studio\CodingTheorems 101\obj\Debug\CodingTheorems 101.pdb
